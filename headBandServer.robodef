@@ -1,0 +1,9 @@
+service headBandNode
+
+option version 0.5
+
+object HeadbandInterface
+
+    function double[] getData()
+
+end object
